@@ -5,11 +5,11 @@ O SISTEMA WEB DEVERÁ HAVER A POSSIBILIDADE DE VERIFICAR QUANTAS MAQUINAS ESTÃO
 E HAVER CONTROLE DE ACESSO AO SYSTEM CENTER A CADA CONEXÃO DE MÁQUINA.
 
 ## Requisitos do projeto: 
-- TER UM LOGIN DE ACESSO (QUEM TERÁ ACESSO SERÁ APENAS GERENTES).
-- TER AS ESPECIFICAÇÕES DE HARDWARE MEMÓRIA RAM, HDD, PLACA MÃE E ETC.
-- CONTROLE DE ACESSO AO SYSTEM CENTER DE CADA MÁQUINA.
-- RASTREAR MÁQUINAS POR ENDEREÇOS IP.
-- RENOMEAR CADA MÁQUINA ASSIM QUE CONECTAR.
+- <strong>Ter um login de acesso</strong> (disponível apenas para Gerentes)<strong>.</strong>
+- <strong>Ter as especificações de hardware de cada máquina.</strong>
+- <strong>Controle de acesso ao System Center de cada máquina.</strong>
+- <strong>Rastrear as máquinas por IP.</strong>
+- <strong>Renomear cada máquina assim que for conectada e aceita na rede.</strong>
 
 ## Integrantes:
 - Thales Henrique da Silva (SCRUM MASTER - DESENVOLVEDOR WEB)
